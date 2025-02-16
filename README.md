@@ -1,7 +1,7 @@
-# Line Following Robot with PID Control
+# Maze solving and Object placement with PID Control
 
 ## Overview
-This project involves designing and implementing a line-following robot that uses five TCRT1000 infrared sensors for detecting a white line on a dark surface. The robot is controlled using a PID (Proportional-Integral-Derivative) algorithm to maintain smooth and accurate line tracking.
+This project involves designing and implementing a maze solving and object placement robot that uses five TCRT1000 infrared sensors for detecting a white line on a dark surface. The robot is controlled using a PID (Proportional-Integral-Derivative) algorithm to maintain smooth and accurate line tracking.
 
 ## Major Components Used
 - **Microcontroller:** ESP-32
@@ -44,3 +44,5 @@ Where:
 - Implementing adaptive PID tuning
 - Integrating machine learning for path optimization
 
+##Video Demonstration of SAC Finals
+https://drive.google.com/file/d/1jiYRGQWqHMdFfAtZDlvRXE6fJCm3Wj6X/view?usp=drive_link 
