@@ -45,4 +45,4 @@ Where:
 - Integrating machine learning for path optimization
 
 ## Video Demonstration of SAC Finals
-- https://drive.google.com/file/d/1jiYRGQWqHMdFfAtZDlvRXE6fJCm3Wj6X/view?usp=drive_link 
+- [https://drive.google.com/file/d/1jiYRGQWqHMdFfAtZDlvRXE6fJCm3Wj6X/view?usp=drive_link ](https://drive.google.com/file/d/1jwIqWakAozG5SfbpKLwxp1zVBzRboQ-u/view?usp=drive_link)
